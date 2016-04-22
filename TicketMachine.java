@@ -27,6 +27,9 @@ public class TicketMachine
     public boolean buyTicker() {
         if(ticket.getPrice() <= total) {
             total -= ticket.getPrice();
+            
+            System.out.println("You have bought a ticket for the amount of $" + ticket.getPrice());
+            System.out.println("Your new balance is $" + total);
             return true;
         }
         else {
