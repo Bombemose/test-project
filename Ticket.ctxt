@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Ticket()
+comment0.text=\n\ Konstrukt\u00F8r\ for\ objekter\ af\ klassen\ Ticket\n
+comment1.params=
+comment1.target=int\ getPrice()
+comment1.text=\n\ Et\ eksempel\ p\u00E5\ en\ metode\ -\ erstat\ denne\ kommentar\ med\ din\ egen\n\ \n\ @param\ \ y\ \ eksempel\ p\u00E5\ en\ parameter\ til\ en\ metode\n\ @return\ \ \ \ summen\ af\ x\ og\ y\ \n
+numComments=2
